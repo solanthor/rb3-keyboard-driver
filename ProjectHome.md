@@ -1,0 +1,1 @@
+A driver for using the Rock Band 3 keyboard as a MIDI device when plugged into a computer with USB
